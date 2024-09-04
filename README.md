@@ -1,27 +1,23 @@
+<div align = center>
+
 # :wave: Hi! I'm Aaron
+
+<div align = left>
 
 :book: -- Currently studying Computer Systems emphasized in Software and Networks Development.
 
 :dart: -- My goal is to specialize in Fullstack Development and Cybersecurity.
 
-:seedling: -- I'm currently learning [RBAC][rbac] with Python and JavaScript.
+:seedling: -- I'm currently learning [RBAC][rbac] with Python and JavaScript; and learning too the framework Laravel.
 
 [rbac]: https://en.wikipedia.org/wiki/Role-based_access_control
-<br>
 
-# :cd: My Tech Stack
+<div align = center>
 
-<div align="center"> 
+# :cd: My Tech Stack :bulb:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,angular,py,django,mysql,sqlite)](https://skillicons.dev) 
+[![Aaron's Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,angular,py,django,mysql,sqlite)](https://skillicons.dev/)
 
-</div>
-<br>
+# :zap:Stats:zap:
 
-# :zap: Stats
-
-<div align="center"> 
-
-[![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-nxwball&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-nxwball&theme=github_dark_dimmed)](https://github.com/a-nxwball/github-readme-stats)
