@@ -2,7 +2,7 @@
 
 # :wave: Hi! I'm Aaron
 
-<div align = left>
+<div align = center>
 
 :book: -- Currently studying Computer Systems emphasized in Software and Networks Development.
 
