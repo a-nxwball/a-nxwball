@@ -1,6 +1,6 @@
 <div align = center>
 
-# :wave: Hi! I'm Aaron
+# :wave: Hi! I'm Aaron!
 
 <div align = center>
 
