@@ -4,7 +4,7 @@ Hi! I'm Aaron. I'm currently studying Computer Systems emphasized in Software an
 
 <div align="center"> 
 
-<a href="mailto:aaron.nxwball@gamil.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail"></a>
+<a href="mailto:aaron.nxwball@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail"></a>
 <a href="https://www.linkedin.com/in/aaron-newball/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=LinkedIn&logoColor=blue">
 </a>
 
