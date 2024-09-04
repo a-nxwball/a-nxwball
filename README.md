@@ -12,7 +12,7 @@
 
 :dart: -- My goal is to specialize in Fullstack Development and Cybersecurity.
 
-:seedling: I'm currently learning [RBAC][rbac] with Python and JavaScript.
+:seedling: -- I'm currently learning [RBAC][rbac] with Python and JavaScript.
 
 [rbac]: https://en.wikipedia.org/wiki/Role-based_access_control
 <br>
