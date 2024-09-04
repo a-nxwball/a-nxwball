@@ -14,10 +14,10 @@
 
 <div align = center>
 
-# :cd: My Tech Stack :bulb:
+# :computer: My Tech Stack
 
 [![Aaron's Tech Stack](https://skillicons.dev/icons?i=html,css,sass,js,angular,py,django,mysql,sqlite)](https://skillicons.dev/)
 
-# :zap:Stats:zap:
+# :zap: Stats
 
 [![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-nxwball&theme=github_dark_dimmed)](https://github.com/a-nxwball/github-readme-stats)
